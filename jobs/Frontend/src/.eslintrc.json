@@ -125,6 +125,7 @@
         "react/require-default-props": "off",
         "react-hooks/exhaustive-deps": "error",
         "class-methods-use-this": "off",
-        "no-unused-vars": ["error", { "args": "none" }]
+        "no-unused-vars": ["error", { "args": "none" }],
+        "react/no-unused-prop-types": ["off"]
     }
 }

@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppLayout should match the snapshot 1`] = `
+<div>
+  <section
+    class="ant-layout"
+  >
+    <header
+      class="ant-layout-header"
+    >
+      <div
+        class="sc-bcXHqe zUhEm"
+      >
+        <h3
+          class="ant-typography"
+        >
+          Device Checker
+        </h3>
+      </div>
+    </header>
+    <main
+      class="ant-layout-content"
+    >
+      <div>
+        Some child
+      </div>
+    </main>
+  </section>
+</div>
+`;
