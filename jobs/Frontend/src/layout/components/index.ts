@@ -3,3 +3,4 @@ export * from './title';
 export * from './loader';
 export * from './button';
 export * from './content';
+export * from './divider';

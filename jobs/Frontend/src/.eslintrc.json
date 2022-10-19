@@ -126,6 +126,7 @@
         "react-hooks/exhaustive-deps": "error",
         "class-methods-use-this": "off",
         "no-unused-vars": ["error", { "args": "none" }],
-        "react/no-unused-prop-types": ["off"]
+        "react/no-unused-prop-types": ["off"],
+        "camelcase": ["off"]
     }
 }
